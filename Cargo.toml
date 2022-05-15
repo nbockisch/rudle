@@ -1,0 +1,11 @@
+[package]
+name = "rudle"
+version = "1.0.0"
+edition = "2021"
+authors = ["Nathan Bockisch <nbockisch@protonmail.com>"]
+license = "MIT"
+repository = "https://github.com/nbockisch/rudle"
+
+[dependencies]
+ncurses = "5.101.0"
+rand = "0.8.4"
